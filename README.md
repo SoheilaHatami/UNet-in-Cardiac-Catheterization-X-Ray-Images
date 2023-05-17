@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/SoheilaHatami/UNet-in-Cardiac-Catheterization-X-Ray-Images/assets/74190994/4a9a2a53-341b-4c37-a896-f11285315570" alt="Cardiac Catheterization">
+<img src="https://github.com/SoheilaHatami/UNet-in-Cardiac-Catheterization-X-Ray-Images/assets/74190994/93bf9d9d-b014-4114-aea9-bc7fcceaec93" alt="Cardiac Catheterization">
+
 </p>
 🙌 🚧 ❌   
 
