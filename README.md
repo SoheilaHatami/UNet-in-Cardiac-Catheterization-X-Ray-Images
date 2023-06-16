@@ -4,7 +4,7 @@
 
 🟠The original web page for the dataset images is available [here](https://www.kaggle.com/datasets/c7934597/cardiac-catheterization).
 
-🟡Also, the unzip version of the dataset which contains images and masks is reachable through this [link](https://drive.google.com/drive/folders/1RZFeTVvsACVwZG__lAfNRdxMXT94wIr-?usp=share_link)
+🟡Also, the unzip version of the dataset which contains images and masks is reachable through this [link].(https://drive.google.com/drive/folders/1RZFeTVvsACVwZG__lAfNRdxMXT94wIr-?usp=share_link)
   
 🔵After downloading the dataset, by running the notebook in this repository, the training and testing will happen.
   
